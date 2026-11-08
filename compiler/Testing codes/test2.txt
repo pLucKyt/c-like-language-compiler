@@ -1,0 +1,2 @@
+int i = 32;
+string lul="kurac";

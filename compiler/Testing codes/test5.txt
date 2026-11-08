@@ -1,0 +1,13 @@
+int k = 5;
+char c = 'r';
+int x = (k + 2) * k;
+int p = !true;
+double lul = 12.23;
+int main()
+{
+    if(k * 3)
+    {
+        return 12;
+    }
+    return 0;
+}

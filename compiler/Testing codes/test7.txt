@@ -1,0 +1,40 @@
+int junk;
+int x;
+int y = -5;
+int k = x * y - y;
+int k_08 = ((2 + 3) * k) - k / 5;
+int big_f()
+{
+    if(k < 5)
+    {
+        int x;
+    }
+    else
+    {
+        int y = 5;
+    }
+    for(int i = 0; i < n; i = i + 1;)
+    {
+        if(5)
+        {
+            int z = x;
+        }
+    }
+    int i = 0;
+    while(i > 0 || i == 0 && i > 10)
+    {
+        k = 21;
+        i = i - 1;
+    }
+    k += 3;
+    k++;
+    bool q = false;
+    k = 5 + x * !q;
+    return k + 3;
+}
+
+int main()
+{
+    int junk = big_f();
+    return 0;
+}

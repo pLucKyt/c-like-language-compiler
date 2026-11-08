@@ -1,0 +1,20 @@
+int input_i()
+{
+    # Machine architecture simulation
+    return 0;
+}
+double input_d()
+{
+    # Machine architecture simulation
+    return 0.0;
+}
+string input_s()
+{
+    # Machine architecture simulation
+    return "";
+}
+int print(string s)
+{
+    # Machine architecture simulation
+    return 0;
+}

@@ -1,0 +1,21 @@
+int k;
+int p;
+double c;
+int xd = k * p + (k - p);
+int f()
+{
+    bool lule = true;
+    char c = '3';
+    int nesto = xd * xd - k;
+    p = xd / (xd * p - 3);
+    char cc = c + 9;
+    int x = !k + c;
+    char u = c + x;
+    string s = "xdxdx";
+    string ss = s + c;
+    int test = !(k + c);
+    bool test2 = (k - k) || p && lule;
+    return ss;
+}
+
+

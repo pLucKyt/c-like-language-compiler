@@ -1,0 +1,46 @@
+int k = 5;
+int l = 22;
+
+int f(int x, int y)
+{
+    int rez = x * y;
+    return rez;
+}
+
+int main()
+{
+    int pera = 5;
+    k += pera;
+    string ss = input_s();
+    print(ss);    
+    bool t = true;
+    int check = 1;    
+    int nesto = 3;
+    string s = "22";    
+    int ome = nesto + f(k, l);
+    string lul = s + ome;
+    print(lul);
+    int ppp = k * l - 2;
+    string ppxd = "" + ppp;
+    print(ppxd);
+    if(nesto >= 3)
+    {        
+        k += 3;
+    }    
+    for(int i = 0; i < k; i++)
+    {
+        int suic = l * l + i;
+        string suic_s = "" + suic;
+        print(suic_s);
+    }
+    int pls = 0;
+    while(pls < 15)
+    {
+        string ende = "god " + pls;
+        print(ende);
+        pls += 1;
+    }
+    string ende_k = "" + k;
+    print(ende_k);
+    return 0;
+}

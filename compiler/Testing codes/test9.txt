@@ -1,0 +1,72 @@
+int k = 5;
+int l = 0;
+int c = 99;
+int cmar = (k + l * c) + !((l + 1) % k);
+int guza = -1;
+guza += k + l * c + !((l + 1) % k);
+guza -= 333;
+string aaa = "nestonesto";
+int pera(int x, int y)
+{
+    int lule = x - y;
+    return lule * 2;
+}
+int ome()
+{
+    return -1;
+}
+int main()
+{
+    int x = 32;
+    int y = x - 2;
+    int z = 5 - 2;
+    int proto = ome();
+    int xd = pera(x * 2 - 1, y) + pera(x, y);
+    pera(x * y, k + x - c);
+    print(aaa);
+    if(x + 2 > (y * y) - cmar)
+    {
+        if(x + x < 2)
+        {
+            int lil = 32;
+        }
+        else
+        {
+            int lol = 333;
+        }
+        int omg = 5 - x;
+        int nesto = 55;
+        int smrt = x - y + z;
+        return smrt;
+    }
+    elif(x < y)
+    {
+        int omg = 5 - x;
+        omg += 2;
+        return 0;
+    }
+    elif(y + 2 == k - 3)
+    {        
+        int omg = 5 - x;
+        omg += 2;
+        int nesto = 4;
+        return 0;
+    }
+    else
+    {
+        int omg = (x * k);
+        omg += x - y + z;
+        return 1;
+    }    
+    for(int i = 222; i <= k; i++)
+    {
+        return 69;
+    }
+    while(k < 100)
+    {
+        int pera = 32;
+        k++;
+    }
+    return 0;
+}
+

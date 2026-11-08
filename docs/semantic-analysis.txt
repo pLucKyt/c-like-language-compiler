@@ -1,0 +1,7 @@
+Nas jezik mora da zadovoljava:
+- static typing: promenljiva ima datatype pre runtime-a
+- static(lexical) scope: scope promenljive se zna pre runtime-a i ne menja se
+- single-pass compiler: compiler prodje samo jednom kroz source code i prevede kod u machine code
+- jedno od ova dva ali najverovatnije strong type:
+  *strong type system: pokusaj operacija promenljivih razlicitog tipa se hvata u compile time ili runtime(u nasem slucaju compile time)
+  *weak type system: pokusaj operacija promenljivih razlicitog tipa se nekakvom transformacijom dovodi do resenja koji ne izaziva problem, ali da bi do toga doslo mora da postoji nekakva dublja logika koja to radi

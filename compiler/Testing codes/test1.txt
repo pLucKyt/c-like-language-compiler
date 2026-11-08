@@ -1,0 +1,29 @@
+int ddx = 69;
+
+int pow(int n, int k)
+{
+	int rez = 1;
+	while(k > 0)
+	{
+		rez *= n;
+		k -= 1;
+	}
+	return rez;
+}
+
+int main()
+{
+	int n = 25;
+	int lul;
+	int k = 3;
+	int pera = 999;
+	pera = ddx + pow(3, 5);
+	string ooo = "" + pera;
+	print(ooo);
+	string s = "nesto nesto";
+	int rez = (pow(n, k) + k) * 2;
+	ddx = rez;
+	string ome = "Ddx je: " + ddx;
+	print(ome);
+	return 0;
+}
